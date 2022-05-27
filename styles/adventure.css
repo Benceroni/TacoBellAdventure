@@ -1,0 +1,119 @@
+body {
+  height: 100vh;
+  background: white;
+  font-size: 20px;
+  margin: 0 auto;
+  width: 960 px;
+  font-family: BrandonGrotesqueWeb-Black, "Arial Black", Arial, Helvetica,
+    sans-serif;
+  /* line-height: 1.25rem; */
+}
+
+#formerDiv {
+  padding: 0;
+}
+
+#heroimage {
+  width: 100%;
+  border-radius: 0.5rem;
+}
+
+main {
+  background-color: rgba(185, 185, 185, 0.5);
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 0;
+}
+
+div {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 10%;
+  padding-bottom: 5%;
+  text-align: left;
+}
+
+#Contentsparent {
+  height: 200vh;
+  width: 50%;
+  background-color: #69409e;
+  margin: 0 auto;
+  padding: 1rem;
+  margin: 0;
+}
+
+footer,
+header {
+  background-color: gray;
+  padding: 10px;
+  width: auto;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+}
+
+img {
+  width: 80%;
+}
+
+#photoparent {
+  width: 50%;
+}
+
+#explainDiv {
+  margin-top: 10px;
+  border-radius: 0.5rem;
+  background-color: white;
+  color: black;
+}
+
+main {
+  text-align: center;
+}
+
+nav {
+  background-color: black;
+  color: white;
+}
+
+#explaindiv {
+  display: inline-block;
+  margin: 10px;
+  color: aquamarine;
+}
+
+#buttonparent {
+  margin: 5px;
+  display: flex;
+  justify-content: space-around;
+}
+
+button {
+  font-family: BrandonGrotesqueWeb-Black, "Arial Black", Arial, Helvetica;
+  font-size: 16px;
+  width: 30%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.5rem;
+  background-color: #ffffff;
+  border: none;
+  color: #4f1b95;
+  box-shadow: 5px 5px 5px 5px#4f1b95;
+}
+
+button:hover {
+  transition: all 500ms ease;
+  font-family: BrandonGrotesqueWeb-Black, "Arial Black", Arial, Helvetica;
+  font-size: 16px;
+  width: 30%;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-radius: 0.5rem;
+  background-color: #b379ff;
+  border: none;
+  color: black;
+  box-shadow: 5px 5px 5px 5px#4f1b95;
+}
