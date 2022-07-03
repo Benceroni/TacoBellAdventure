@@ -2,7 +2,7 @@
 let adventureArray = [
   {
     explain:
-      "You know what time it is. You pullin up to TACO BELL🔔🔔🔔🔔🔔🔔(but no later than 9pm most week days or 10:30 on saturdays because taco bell isn't really open late anymore.) The sweet scent of true mexican flavors is fillin your nostrils as you approach the drive thru entrance. Your transcendant Taco Bell Peace™ and the perfect jams playing are broken by the sound of your phone ringing. A quick inspection of your screen shows a number you don't recognize.",
+      "You know what time it is. You pullin up to TACO BELL🔔🔔🔔🔔🔔🔔(but no later than 9pm most week days or 10:30 on saturdays because taco bell isn't really open late anymore.) The sweet scent of true mexican flavors is fillin your nose as you approach the drive thru entrance. Your transcendant Taco Bell Peace™ and the perfect jams playing are broken by the sound of your phone ringing. A quick inspection of your screen shows a number you don't recognize.",
     option1: "Adventure calls baby! Answer Da Phone",
     option1result: 1,
     option2: "Order your food",
@@ -349,7 +349,7 @@ let adventureArray = [
   {
     explain:
       "Here we go!! *Crunch* The beautiful bumper on his 2004 honda civic folds in. The already sunburnt and flaking red paint cracks and folds at the edges of the fenders crushed areas. Impressive you were able to hit him with such force in a taco bell drive thru. oopsie. Out pops the driver. PISSED and not afraid to show it. You excitedly hop out of your car- hyped to meet THE Mads mikkelsen in the flesh-but as you study his face, the exitement drains from yours. Looks like you just crashed into a dollar store Mads Mikkelsen.",
-    option1: "Swap insurance with Dollar store Ryan Gosling",
+    option1: "Swap insurance with Dollar store Mads Mikkelsen",
     option1result: 27,
     option2: "Get back in and attempt to pop the curb",
     option2result: 28,
