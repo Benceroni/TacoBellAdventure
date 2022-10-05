@@ -702,7 +702,6 @@ function updateHtml(buttonNum) {
   button.innerHTML = record.option1;
   const button2 = document.getElementById("option2button");
   button2.innerHTML = record.option2;
-
   const button3 = document.getElementById("option3button");
   button3.innerHTML = record.option3;
   if (record.photo != "none") {
@@ -722,6 +721,11 @@ function initializeHtml() {
   button2.innerHTML = record.option2;
   const button3 = document.getElementById("option3button");
   button3.innerHTML = record.option3;
+  // if (record.id != "0") {
+  const review = document.querySelector("#reviewButton");
+  review.style.backgroundcolor = "red";
+  // }
+
   if (record.photo != "none") {
     document.querySelector("#photo").setAttribute("src", record.photo);
   }
