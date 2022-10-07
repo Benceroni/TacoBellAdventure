@@ -47,6 +47,12 @@ div {
   margin: 0;
 }
 
+#review {
+  .images {
+    width: 100%;
+  }
+}
+
 footer,
 header {
   background-color: gray;
