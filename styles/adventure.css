@@ -13,7 +13,8 @@ body {
   padding: 0;
 }
 
-#heroimage {
+#heroimage,
+#reviewHero {
   width: 100%;
   border-radius: 0.5rem;
 }
@@ -47,11 +48,11 @@ div {
   margin: 0;
 }
 
-#review {
+/* #review {
   .images {
     width: 100%;
   }
-}
+} */
 
 footer,
 header {
@@ -66,7 +67,7 @@ header {
 }
 
 img {
-  width: 80%;
+  width: 100%;
 }
 
 #photoparent {
