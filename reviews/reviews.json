@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "date": "6 October 2022",
+      "intro": "bruh bruh",
+      "prefitcheck": "test",
+      "items": [
+        {
+          "title": "beefy 5",
+          "review": "beefy 5"
+        },
+        {
+          "title": "beefy bruh",
+          "review": "yes good"
+        }
+      ],
+      "content": "test",
+      "meatthebell": "test",
+      "extraphotos": ["extra1.jpg", "extra2.jpg"]
+    }
+  ]
+}
