@@ -1,0 +1,21 @@
+        <section>
+          <h3>Date</h3>
+          <p></p>
+          <p></p>
+          <p></p>
+          <img src="" alt="Prefitcheck" />
+          <p></p>
+          <img src="" alt="me at the bell" />
+          <div class="review">
+            <h4></h4>
+            <p></p>
+            <h4></h4>
+            <p></p>
+            <h4></h4>
+            <p></p>
+            <h4></h4>
+            <p></p>
+          </div>
+          <img src="" alt="(additional photo)" />
+          <img src="" alt="(additional photo)" />
+        </section>
