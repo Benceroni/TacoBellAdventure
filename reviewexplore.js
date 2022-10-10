@@ -20,7 +20,7 @@ fetch(requestURL)
       let p1 = document.createElement("p");
       let img1 = document.createElement("img");
       let p2 = document.createElement("p");
-      let menu = document.createAttribute("section");
+      let menu = document.createAttribute("p");
       let img2 = document.createElement("img");
 
       h3.innerHTML = articles[i].date;
@@ -36,8 +36,7 @@ fetch(requestURL)
       card.appendChild(p2);
       card.appendChild(img2);
       document.querySelector("div.reviews").appendChild(card);
-    }
-    for (let i = 0; i < articles.length; i++) {
+
       for (let y = 0; y < 2; y++) {
         itemTitle[y] = document.createElement("h4");
         itemReview[y] = document.createElement("p");
@@ -45,9 +44,9 @@ fetch(requestURL)
         itemTitle[y].innerHTML = articles[i].items[y].title;
         itemReview[y].textContent = articles[i].items[y].review;
 
-        card.appendChild(itemTitle[y]);
-        card.appendChild(itemReview[y]);
-        document.querySelector("div.menu").appendChild(card);
+        menu.appendChild(itemTitle[y]);
+        menu.appendChild(itemReview[y]);
+        document.querySelector("div.menu").appendChild(menu);
       }
     }
 
