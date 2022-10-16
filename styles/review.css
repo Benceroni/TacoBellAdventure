@@ -42,10 +42,13 @@ section > img {
   border-radius: 0.5rem;
   border-top-style: 1px;
   border-color: #4f1b95;
-  /* background-color: #4f1b95;
-  color: white; */
 }
 
 .review > p {
   font-size: medium;
+}
+
+.dualImage {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
