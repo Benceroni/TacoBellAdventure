@@ -52,3 +52,16 @@ section > img {
   display: grid;
   grid-template-columns: 1fr 1fr;
 }
+
+.darkera {
+  padding: 1rem;
+  color: white;
+  background-color: rgb(58, 61, 65);
+  font: papyrus;
+  font-size: small;
+  box-shadow: 0px 5px 15px rgb(139, 17, 41), 0px -5px 15px #d31111;
+}
+
+.darkera > h3 {
+  background-color: rgb(39, 39, 39);
+}
