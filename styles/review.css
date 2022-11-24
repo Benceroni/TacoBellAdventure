@@ -6,6 +6,21 @@ section {
   margin: 1rem auto;
 }
 
+.bencerlore {
+  font-size: small;
+  padding: 1rem;
+}
+
+.ribbon {
+  padding: 1rem;
+  padding-right: 3rem;
+  margin-right: 1rem;
+  margin-left: -0.5rem;
+  border-radius: 0px 0 4rem 0;
+  background-color: #4f1b95;
+  color: white;
+}
+
 section > h3 {
   width: 100%;
   text-align: center;
