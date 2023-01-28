@@ -80,3 +80,9 @@ section > img {
   background-color: rgb(39, 39, 39);
   box-shadow: 0px 5px 15px rgb(139, 17, 41), 0px -5px 15px #d31111;
 }
+
+.oldtimey {
+  font: unset;
+  font-family: cursive, "lucida handwriting";
+  background-color: beige;
+}
