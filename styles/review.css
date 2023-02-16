@@ -6,6 +6,14 @@ section {
   margin: 1rem auto;
 }
 
+.hidden {
+  background-color: black;
+}
+
+/* .hidden:hover {
+  color: white;
+} */
+
 .bencerlore {
   font-size: small;
   padding: 1rem;
